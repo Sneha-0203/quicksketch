@@ -22,12 +22,13 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    
-  git clone https://github.com/Emmanuel301004/quicksketch.git '''
+git clone https://github.com/Sneha-0203/quicksketch.git
 
 2. Open the project directory:
 bash
 Copy code
 cd quicksketch
+
 3.Open index.html in your web browser.
 
 Links
