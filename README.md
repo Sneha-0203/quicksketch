@@ -32,6 +32,5 @@ cd quicksketch
 3.Open index.html in your web browser.
 
 Links
-app to download : Quick Sketch Web App https://drive.google.com/file/d/104j4wooT92bxDh4JRs54pCRwObJaSSAW/view?usp=drive_link
 GitHub Repository: Quick Sketch on GitHub
-Try it Online: Live Demo https://paint-app0.netlify.app
+Try it Online: Live Demo [https://paint-app0.netlify.app](https://quickskitching.netlify.app/)
